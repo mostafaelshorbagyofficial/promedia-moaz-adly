@@ -1,5 +1,12 @@
 # ProMedia × Moaz Adly — Official Digital Media Kit & Presentation
 
+![Live Preview](./public/preview.jpg)
+
+🌐 **Live Production Deployment:** [promedia-moaz-adly.vercel.app](https://promedia-moaz-adly.vercel.app)  
+👨‍💻 **Engineering & Execution:** [Mostafa Mohamed Farhat (Elshorbagy)](https://mostafa-portfolio-iota.vercel.app/) — *Interactive Creator Digital Media Kit Engineering (ProMedia)*
+
+---
+
 An interactive, high-performance commercial presentation and digital media kit representing **Moaz Adly (معاذ عدلي)**, exclusively managed and presented by **ProMedia**.
 
 Built with React 19, TypeScript, Tailwind CSS, and Vite.
